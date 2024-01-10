@@ -76,7 +76,7 @@ height: auto;
 .nav-link {font-weight: 700;}
 .nav-link:hover {color: rgb(3, 172, 158);}
 /*----------------Hero part start--------------------*/
-.hero_part{background: url(../img/Hero.png);
+.hero_part{background-image: url(../img/Hero.png);
 background-repeat: no-repeat;
 background-size: cover;
 height: 600px; 
