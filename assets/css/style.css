@@ -37,7 +37,7 @@ display: flex;justify-content: center;align-items: center;}
     width: 4px;
     height: 4px;
     border-radius: 50%;
-    color: blue;
+    color: rgb(6, 192, 238);
     box-shadow: 
       calc(1*var(--d))      calc(0*var(--d))     0 0,
       calc(0.707*var(--d))  calc(0.707*var(--d)) 0 1px,
@@ -94,7 +94,7 @@ height: 600px;
     width: 70px;
     align-items: center;
 }
-.underline{height: 1px;width: 65%;background:blue;}
+.underline{height: 1px;width: 65%;background:rgb(10, 111, 241);}
 /* .feature_icon li{border-radius: 50%;width: 5px;height: 5px;color: red;} */
 
 /*----------Showcase part start ------------*/
