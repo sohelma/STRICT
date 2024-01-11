@@ -74,7 +74,7 @@ height: auto;
 .navbar-brand {font-size: 35px;font-weight: 600;
 }
 .nav-link {font-weight: 700;}
-.nav-link:hover {color: rgb(3, 172, 158);}
+.nav-link:hover {color: #15a4fa;}
 /*----------------Hero part start--------------------*/
 .hero_part{ background-image: url(../img/hero.png);
 background-repeat: no-repeat;
@@ -94,7 +94,8 @@ height: 600px;
     width: 70px;
     align-items: center;
 }
-.underline{height: 1px;width: 65%;background:rgb(10, 111, 241);}
+.second_con_main:hover{box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;}
+.underline{height: 1px;width: 65%;background:#15a4fa;}
 /* .feature_icon li{border-radius: 50%;width: 5px;height: 5px;color: red;} */
 
 /*----------Showcase part start ------------*/
@@ -175,16 +176,17 @@ width:50%
   background: transparent;
 }
 .contact-form {
-    margin-top: 50px;
-}
+    margin-top: 50px;}
 .rounded-0 {
   padding: 5px 25px;
   background: transparent;
   color: white; 
-  border: 1px solid rgb(0, 174, 255);
+  border: 1px solid #15a4fa;
 }
 .news-color{color: rgb(189, 185, 185);}
 .checkbox span{color: rgb(161, 160, 160);}
+
+.form-btn:hover{background: #15a4fa;}
 /* -----------------------footer-last -----------------*/
 .footer ul {
   list-style: none;
@@ -204,3 +206,4 @@ width:50%
   transition: .4s;
 }
 .footer ul li:hover{color:#000;}
+.last_main-con i{background:#15a4fa;}
